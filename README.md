@@ -1,2 +1,3 @@
 # MiniGames
-Collection of small Godot games
+Collection of Games Made With Godot
+
